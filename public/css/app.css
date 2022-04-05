@@ -1,0 +1,47 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;
+
+0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap);.btn-primary {
+  background-color: #f96302;
+  color: #ffffff;
+  border-color: transparent;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.open .dropdown-toggle.btn-primary {
+  background-color: #df5a01;
+  color: #ffffff;
+  border-color: transparent;
+}
+
+h1,
+h2,
+p {
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+a {
+  text-decoration: none;
+}
+
+h2 a {
+  color: orange;
+}
+
+.nav-link {
+  padding: 0;
+}
+
+.pagination {
+  margin-top: 20px;
+}
+

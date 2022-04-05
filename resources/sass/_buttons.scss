@@ -1,0 +1,15 @@
+// Buttons
+.btn-primary{
+    background-color: $orange;
+    color: $white;
+    border-color: transparent;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.open .dropdown-toggle.btn-primary{
+    background-color: $darkorange;
+    color: $white;
+    border-color: transparent;
+}
